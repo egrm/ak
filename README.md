@@ -16,7 +16,7 @@ A minimal CLI that wraps [AnkiConnect](https://foosoft.net/projects/anki-connect
 ## Install
 
 ```bash
-go install github.com/stardust/ak@latest
+go install github.com/egrm/ak@latest
 ```
 
 Or build from source:
