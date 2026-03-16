@@ -22,7 +22,7 @@ go install github.com/egrm/ak@latest
 Or build from source:
 
 ```bash
-git clone https://github.com/stardust/ak
+git clone https://github.com/egrm/ak
 cd ak
 go build -o ak .
 cp ak ~/.local/bin/  # or wherever
